@@ -1,0 +1,10 @@
+LA 49 SanFrancisco 124 Phoenix
+SanFrancisco 84 Portland 56 LasVegas
+Portland 112 Seattle
+Seattle 88 SanFrancisco 119 Boise 130 LA
+Boise 100 LasVegas 112 SanFrancisco
+LasVegas 104 Phoenix 112 Seattle
+Phoenix 116 Albuquerque
+Denver 349 Bismarck
+Albuquerque 41 Denver 
+Bismarck 325 Boise
