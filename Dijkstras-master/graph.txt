@@ -1,5 +1,5 @@
 LA 49 SanFrancisco 124 Phoenix
-SanFrancisco 84 Portland 56 LasVegas
+SanFrancisco 84 Portland 56 LasVegas 274 Lincoln
 Portland 112 Seattle
 Seattle 88 SanFrancisco 119 Boise 130 LA
 Boise 100 LasVegas 112 SanFrancisco
@@ -8,3 +8,22 @@ Phoenix 116 Albuquerque
 Denver 349 Bismarck
 Albuquerque 41 Denver 
 Bismarck 325 Boise
+Lincoln 530 Wichita 335 Minneapolis
+Wichita 167 Austin
+Minneapolis 133 Milwaukee
+Milwaukee 134 Chicago 109 Indianapolis
+Chicago 86 Indianapolis
+Nashville 276 Louisville 139 NewOrleans
+NewOrleans 183 Wichita 144 Indianapolis
+Louisville 99 Chicago
+Indianapolis 160 Louisville 144 Nashville 177 Cincinatti
+Cincinatti 83 Atlanta 120 Indianapolis
+Atlanta 278 Charlotte 159 Miami
+Tampa 92 Atlanta 142 Charlotte
+Miami 77 Tampa
+Charlotte 99 DC
+DC 87 Boston 84 NewYorkCity 211 Philadelphia
+Boston 67 NewYorkCity
+NewYorkCity 82 Concord 933 Lincoln
+Philadelphia 99 Boston 174 NewYorkCity
+Concord 99 Philadelphia
